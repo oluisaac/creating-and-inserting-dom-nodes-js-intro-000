@@ -8,7 +8,3 @@ var element.appendChild();{
   document.body.appendChild(element);
   element.style.textAlign = 'center';
 }
-
-
-
-
