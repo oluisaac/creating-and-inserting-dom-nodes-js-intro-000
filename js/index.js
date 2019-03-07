@@ -6,5 +6,7 @@ element.style.backgroundColor = '#f9f9f9';
 }
 var element.appendChild();{
   document.body.appendChild(element);
+}
+var element.textAlign(){
   element.style.textAlign = 'center';
 }
