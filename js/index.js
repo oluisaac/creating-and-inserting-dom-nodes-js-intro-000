@@ -10,3 +10,12 @@ var element.appendChild();{
 var element.textAlign(){
   element.style.textAlign = 'center';
 }
+var ul = document.createElement('ul');{
+  ul.style.textAlign = 'left';
+}
+var element.removeChild();{
+  ul.removeChild(ul.querySelector('li:nth-child(2)'));
+}
+var element.remove();{
+  ul.remove();
+}
